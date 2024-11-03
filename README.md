@@ -1,1 +1,1 @@
-Este avanze de el proyetcto del laboratorio 1 del 3 computo lo trabajamos : Ximena Moreno y Camila Romero
+Este avance es del proyecto del laboratorio 1 del 3er computo, realizado por : Ximena Moreno y Camila Romero.
